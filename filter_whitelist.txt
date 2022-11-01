@@ -77,7 +77,7 @@ xn--wxt79hbyb675a.online
 ssh.wbdcrmn.cn
 2444.dlads.cn
 gvt2.com
-istripper.com
+*.istripper.com
 timeserver.cnzz.net
 hmma.baidu.com
 isee.weishi.qq.com
