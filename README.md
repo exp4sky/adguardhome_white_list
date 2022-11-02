@@ -1,3 +1,3 @@
-# adguardhome_white_list
+# adguardhome_rules_list
 
 自己用的黑白名单
