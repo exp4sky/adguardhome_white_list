@@ -305,7 +305,7 @@ measure.office.com
 a.nel.cloudflare.com
 api-unionid.meituan.com
 mirrors.aliyun.com
-_https._tcp.mirrors.aliyun.com
+*._tcp.mirrors.aliyun.com
 wis.ruijie.com.cn
 www.you03.com
 down-wmzz-cn.q1.com
