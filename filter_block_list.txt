@@ -1,0 +1,8 @@
+||techsmith.com^$important
+||www.techsmith.com^$important
+||activation.cloud.techsmith.com^$important
+||oscount.techsmith.com^$important
+||updater.techsmith.com^$important
+||camtasiatudi.techsmith.com^$important
+||tsccloud.cloudapp.net^$important
+||assets.cloud.techsmith.com^$important
