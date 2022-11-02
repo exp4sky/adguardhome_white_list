@@ -1,3 +1,5 @@
+||*^$dnstype=HTTPS,dnsrewrite=REFUSED
+||*^$dnstype=AAAA,dnsrewrite=REFUSED
 ||techsmith.com^$important
 ||www.techsmith.com^$important
 ||activation.cloud.techsmith.com^$important
