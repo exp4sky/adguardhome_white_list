@@ -14,7 +14,6 @@ tui.taobao.com
 tce.alicdn.com
 count.taobao.com
 gfe.nvidia.com
-pgl.yoyo.org.localdomain
 pgl.yoyo.org
 netflix.com
 qq.com
@@ -243,14 +242,6 @@ downxia.com
 bam.nr-data.net
 ad.hjyedu88.com
 js-agent.newrelic.com
-||techsmith.com
-||www.techsmith.com
-||activation.cloud.techsmith.com
-||oscount.techsmith.com
-||updater.techsmith.com
-||camtasiatudi.techsmith.com
-||tsccloud.cloudapp.net
-||assets.cloud.techsmith.com
 torren.eu
 t.me
 www.jsr9.com
