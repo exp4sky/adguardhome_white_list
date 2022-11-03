@@ -70,6 +70,7 @@
 @@||db-ip.com^
 @@||000714.xyz^
 @@||blueskyxn.com^
+@@||console.cloud.tencent.com^
 sp0.baidu.com
 sp1.baidu.com
 www.google-analytics.com
