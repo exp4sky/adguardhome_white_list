@@ -72,6 +72,16 @@
 @@||blueskyxn.com^
 @@||console.cloud.tencent.com^
 @@||muniucloud.work^
+@@||tcpconn.tencent.com^
+@@||tcpconn1.tencent.com^
+@@||tcpconn2.tencent.com^
+@@||tcpconn3.tencent.com^
+@@||tcpconn4.tencent.com^
+@@||tcpconn5.tencent.com^
+@@||tcpconn6.tencent.com^
+@@||tcpconn7.tencent.com^
+@@||tcpconn8.tencent.com^
+@@||tcpconn9.tencent.com^
 sp0.baidu.com
 sp1.baidu.com
 www.google-analytics.com
