@@ -479,4 +479,5 @@ live.bilibili.com
 *.camwhores.tv
 *.spankbanglive.com
 *.eporner.com
-camsparty.com
+*.camsparty.com
+*.strpst.com
