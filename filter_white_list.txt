@@ -1,5 +1,6 @@
-@@||doppiocdn.com^
+@@||camsparty.com^
 @@||stripchat.com^
+@@||doppiocdn.com^
 @@||analytics.google.com^
 @@||analytics.twitter.com^
 @@||azure.com^
