@@ -85,8 +85,15 @@
 @@||tcpconn7.tencent.com^
 @@||tcpconn8.tencent.com^
 @@||tcpconn9.tencent.com^
-sp0.baidu.com
-sp1.baidu.com
+@@||redwap-xxx.com^$important
+@@||pub.idqqimg.com^$important
+@@||www.xvideos.com^$important
+@@||www.thumbzilla.com^$important
+@@||fapcat.com^
+@@||wurfl.io^$important
+@@||syndication.exosrv.com^$important
+@@||sp0.baidu.com^$important
+@@||sp1.baidu.com^$important
 www.google-analytics.com
 g.live.com
 s.click.taobao.com
