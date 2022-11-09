@@ -95,6 +95,8 @@
 @@||sp0.baidu.com^$important
 @@||sp1.baidu.com^$important
 www.google-analytics.com
+www.fapcat.com
+*.fapcat.com
 g.live.com
 s.click.taobao.com
 ipassport.ele.me
