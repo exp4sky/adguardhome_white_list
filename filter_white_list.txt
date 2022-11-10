@@ -94,6 +94,7 @@
 @@||syndication.exosrv.com^$important
 @@||sp0.baidu.com^$important
 @@||sp1.baidu.com^$important
+acgbk.top
 www.google-analytics.com
 www.fapcat.com
 *.fapcat.com
