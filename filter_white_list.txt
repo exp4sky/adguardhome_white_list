@@ -1,3 +1,4 @@
+@@||fds.api.xiaomi.com^
 @@||onewsvod.com^
 @@||onewsvod.com^$important
 @@||livep.l.qq.com^$important
