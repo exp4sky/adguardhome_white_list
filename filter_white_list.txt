@@ -1,4 +1,5 @@
 @@||onewsvod.com^
+@@||onewsvod.com^$important
 @@||livep.l.qq.com^$important
 @@||vv.video.qq.com^$important
 @@||video.qq.com^
