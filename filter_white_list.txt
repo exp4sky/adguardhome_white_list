@@ -1,3 +1,7 @@
+@@||onewsvod.com^
+@@||livep.l.qq.com^$important
+@@||vv.video.qq.com^$important
+@@||video.qq.com^
 @@||push.migu.cn^$important
 @@||v.miguvideo.com^$important
 @@||ggx09.miguvideo.com^$important
