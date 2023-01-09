@@ -1,3 +1,4 @@
+@@||h5.youzan.com^$important
 @@||track.shuidichou.com^$important
 @@||fds.api.xiaomi.com^
 @@||onewsvod.com^
