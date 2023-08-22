@@ -1,3 +1,6 @@
+@@||istripper.com^$important
+@@||speeddials.opera.com^$important
+@@||zhanzhang.toutiao.com^$important
 @@||h5.youzan.com^$important
 @@||track.shuidichou.com^$important
 @@||fds.api.xiaomi.com^
