@@ -124,6 +124,15 @@
 @@||syndication.exosrv.com^$important
 @@||sp0.baidu.com^$important
 @@||sp1.baidu.com^$important
+@@||v2.5c.com.cn^$important
+@@||oth.eve.mdt.qq.com^$important
+@@||wwhv.lanzouw.com^$important
+@@||chaturbate.com^$important
+@@||do.so99.top^$important
+@@||ms.cilido.top^$important
+@@||wuqiansa.top^$important
+@@||wuqianhu.top^$important
+@@||www.openkylin.top^$important
 acgbk.top
 www.google-analytics.com
 www.fapcat.com
