@@ -133,6 +133,7 @@
 @@||wuqiansa.top^$important
 @@||wuqianhu.top^$important
 @@||www.openkylin.top^$important
+@@||openkylin.top^$important
 acgbk.top
 www.google-analytics.com
 www.fapcat.com
