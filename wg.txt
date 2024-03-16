@@ -28,6 +28,6 @@ docker run -d \
   --cap-add=NET_ADMIN \
   --cap-add=SYS_MODULE \
   --sysctl="net.ipv6.conf.all.disable_ipv6=0" \
-  --sysctl="net.ipv6.conf_all.forwarding=1" \
+  --sysctl="net.ipv6.conf.all.forwarding=1" \
   --restart unless-stopped \
   ghcr.io/wg-easy/wg-easy
